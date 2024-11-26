@@ -1,3 +1,0 @@
-﻿  Selection_Sort.cpp
-C:\Users\qkral\github\Selection_Sort\Selection_Sort\Selection_Sort.cpp(25,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Selection_Sort.vcxproj -> C:\Users\qkral\github\Selection_Sort\x64\Debug\Selection_Sort.exe
